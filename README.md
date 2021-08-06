@@ -1,12 +1,8 @@
-##Travels
+# Travels
 
-#Install dependencies
->npm install –save-dev nodemon
+![image](https://user-images.githubusercontent.com/30164447/128457270-67b3df0c-424d-4f6a-8cbc-2d7700a342b6.png)
 
-#Where you can change how to start the project? 
- "scripts": {
-    "dev": "nodemon index.js"
-  },
+# Start the project
+>npm start
 
-#Start the project
->npm run dev
+# localhost:4000
